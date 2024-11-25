@@ -100,7 +100,7 @@ article:hover {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
   position: fixed;
   top: 0;
-  z-index: 100;
+  z-index: 1000;
 }
 
 .header__logo-link {
